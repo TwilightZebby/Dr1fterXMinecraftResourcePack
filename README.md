@@ -23,7 +23,8 @@ Downloads for this Resource Pack can be found in this pack's [Releases Page](htt
 Each release will have multiple `.zip` files listed under it, so make sure you download the correct one for your Minecraft version (it'll be stated in the file's name).
 
 > [!NOTE]
-> This Resource Pack currently supports Minecraft: Java Edition versions 1.8.9 to 1.21.8.
+> This Resource Pack currently supports the following Minecraft Java Edition versions:
+> - 1.8, 1.9, 1.12, 1.18, 1.20, 1.21 (and all 1.21.x "Game Drop" versions)
 
 ---
 
