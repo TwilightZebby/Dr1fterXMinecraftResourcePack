@@ -1,0 +1,66 @@
+- name: blocked
+  description: Being held back for [reason]
+  color: '000000'
+- name: bug
+  description: Something isn't working
+  color: 'd73a4a'
+- name: documentation
+  description: Improvements to documentation
+  color: '0366d6'
+- name: duplicate
+  description: This issue, pull request, or discussion already exists
+  color: 'cfd3d7'
+- name: enhancement
+  description: This pull request adds new assets or improvements
+  color: 'a2eeef'
+- name: help wanted
+  description: Extra attention or research is needed
+  color: '008672'
+- name: invalid
+  description: This doesn't seem right or doesn't belong on this repository 
+  color: 'e4e669'
+- name: question
+  description: This is a general question
+  color: 'd876e3'
+- name: reason:minecraft
+  description: Changes due to a Minecraft Java Edition update
+  color: '831AEA'
+- name: semver:major
+  description: A breaking change
+  color: '590000'
+- name: semver:minor
+  description: New changes that aren't breaking
+  color: '004e63'
+- name: semver:patch
+  description: Bug fixes, string changes, or other extremely minor updates
+  color: '045700'
+- name: suggestion
+  description: This is a suggestion or feature request
+  color: '14D329'
+- name: will not fix/do
+  description: This will not be worked on
+  color: 'ffffff'
+- name: asset:textures
+  description: Affects or relates to textures
+  color: 'FBCA04'
+- name: asset:models
+  description: Affects or relates to 3D models
+  color: 'FBCA04'
+- name: asset:animation
+  description: Affects or relates to animations in textures and/or models
+  color: 'FBCA04'
+- name: asset:music
+  description: Affects or relates to music
+  color: 'FBCA04'
+- name: asset:sounds
+  description: Affects or relates to sounds (not music)
+  color: 'FBCA04'
+- name: asset:user interfaces
+  description: Affects or relates to user interface (UI) textures
+  color: 'FBCA04'
+- name: asset:strings
+  description: Affects or relates to strings that aren't localised (such as Splash Texts)
+  color: 'FBCA04'
+- name: asset:language strings
+  description: Affects or relates to localised strings (that can be translated into multiple languages)
+  color: 'FBCA04'

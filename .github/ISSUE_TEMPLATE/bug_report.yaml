@@ -1,0 +1,61 @@
+name: Bug Report
+description: Template for reporting Bugs or Issues found with this Resource Pack
+title: '[Bug]: '
+labels:
+  - bug
+body:
+  - type: textarea
+    id: bug-summary
+    attributes:
+      label: Description of Bug
+      description: >-
+        What is the bug or issue you are experiencing? Please ensure
+        you are clear yet concise. 
+    validations:
+      required: true
+  - type: textarea
+    id: bug-repro-steps
+    attributes:
+      label: Reproduction Steps
+      description: What are the steps to reproduce the issue?
+    validations:
+      required: true
+  - type: textarea
+    id: bug-expected-result
+    attributes:
+      label: Expected Behaviour
+      description: What would you have expected to happen, should this issue not exist?
+    validations:
+      required: true
+  - type: dropdown
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      description: 'What Minecraft: Java Edition version did you find this issue/bug on?'
+      multiple: true
+      options:
+        - 1.8 - 1.12
+        - 1.13 - 1.17
+        - 1.18 - 1.19
+        - '1.20'
+        - 1.21.0 - 1.21.1
+        - 1.21.2 - 1.21.3
+        - 1.21.4
+        - 1.21.5
+        - 1.21.6
+        - 1.21.7
+        - 1.21.8
+    validations:
+      required: true
+  - type: textarea
+    id: bug-additional-context
+    attributes:
+      label: Additional Context
+      description: >-
+        Is there any additional information or screenshots/video clips that may
+        help to identify and/or resolve this issue?
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app/)

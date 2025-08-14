@@ -1,0 +1,7 @@
+contact_links:
+  - name: Feedback & Feature Requests
+    url: https://github.com/TwilightZebby/Dr1fterXMinecraftResourcePack/discussions/new/choose
+    about: Have ideas for this pack? Post it in our Discussions tab!
+  - name: Download Pack
+    url: https://github.com/TwilightZebby/Dr1fterXMinecraftResourcePack/releases/latest
+    about: Want to download this Resource Pack? Find it on our Releases page on GitHub here!
