@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 46,
-        "min_format": 46,
+        "pack_format": 84,
+        "min_format": 84,
         "max_format": 97,
-        "supported_formats": { "min_inclusive": 46, "max_inclusive": 97 },
+        "supported_formats": { "min_inclusive": 84, "max_inclusive": 97 },
         "description": "Textures & Splash Texts based off the Dr1fterX community"
     }
 }
